@@ -1,4 +1,4 @@
-# react-redux-server-boilerplate
+# DEPRECIATED PROJECT
 
 React / Redux server side rendering boilerplate
 
